@@ -1,0 +1,5 @@
+/* header.component.css */
+.custom-logo {
+  width: 100px; /* Adjust the width as needed */
+  height: auto; /* Allows the logo to maintain its aspect ratio */
+}
